@@ -3,15 +3,20 @@ Mosquito_Swatter_PCB
 Objective: Reverse Engineered pcb design of a mosquito swatter circuit built using KiCad
 <br><br>
 <div align="center">
-<img width="961" height="378" alt="PCB FRONT" src="https://github.com/user-attachments/assets/6d50a589-29a8-44be-9b5e-d4bfc63326b1" />
-<br><sub><i>Fig1:PCB Front</i></sub>
+  <img width="961" height="378" alt="PCB FRONT" src="https://github.com/user-attachments/assets/6d50a589-29a8-44be-9b5e-d4bfc63326b1" />
+  <br><sub><i>Fig1:PCB Front</i></sub>
 </div>
 <br>
 <div align="center">
-<img width="969" height="351" alt="PCB BACK" src="https://github.com/user-attachments/assets/a38a9c16-d60f-4feb-9b3a-3b642930e09a" />
+  <img width="969" height="351" alt="PCB BACK" src="https://github.com/user-attachments/assets/a38a9c16-d60f-4feb-9b3a-3b642930e09a" />
+  <sub><i>Fig2:PCB BACK</i></sub>
 </div>
 <br><br>
 <div align="center">
-<img width="1044" height="445" alt="image" src="https://github.com/user-attachments/assets/97de0d05-6163-4df4-bc0b-c97659afc543" />
-<br><sub><i>Fig2:Rough PCB sketch drawn directly by tracing</i></sub></div>
-
+  <img width="1044" height="445" alt="image" src="https://github.com/user-attachments/assets/97de0d05-6163-4df4-bc0b-c97659afc543" />
+  <br><sub><i>Fig3:Rough PCB sketch drawn directly by tracing</i></sub></div>
+<br>
+<div align="center">
+  <img width="778" height="232" alt="image" src="https://github.com/user-attachments/assets/b20a07a8-b365-47d5-ba33-7cfb21789aa3" />
+  <br><sub><i>Fig4:Arranged</i></sub>
+</div>
