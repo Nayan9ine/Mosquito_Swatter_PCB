@@ -1,4 +1,4 @@
-Mosquito_Swatter_PCB 
+<div align="center">Mosquito Swatter Circuit</div>
 <br>
 Objective: Reverse Engineered pcb design of a mosquito swatter circuit built using KiCad
 <br><br>
@@ -20,3 +20,20 @@ Objective: Reverse Engineered pcb design of a mosquito swatter circuit built usi
   <img width="778" height="232" alt="image" src="https://github.com/user-attachments/assets/b20a07a8-b365-47d5-ba33-7cfb21789aa3" />
   <br><sub><i>Fig4:Arranged</i></sub>
 </div>
+<br>
+<div align="center">
+ <img width="778" height="182" alt="image" src="https://github.com/user-attachments/assets/12abe59a-d603-4994-b87a-70e81d2a02c7" />
+ <br><sub><i>Fig5:PCB Editor</i></sub>
+</div>
+<br>
+<div align="center">
+<img width="901" height="200" alt="image" src="https://github.com/user-attachments/assets/43528f74-a796-4bbe-ad46-366d06376807" />
+<br><sub><i>Fig6:PCB Front</i></sub>
+</div>
+<br>
+<div align="center">
+<img width="568" height="157" alt="image" src="https://github.com/user-attachments/assets/4b267803-792f-4a37-b6bf-cc0b93f66375" />
+<br><sub><i>Fig7:PCB Back</i></sub>
+</div>
+<br><br>
+This is my first attempt at drawing a pcb and also using the KiCad software, so I have done the bare minimum of clearing Electrical Rules Checker and Design Rules Checker. There must be lots of routing and component placement issues but I have rounded up sharp edges and made the traces as short as possible.
