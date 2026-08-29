@@ -1,6 +1,7 @@
 <div align="center">Mosquito Swatter Circuit</div>
 <br>
 Objective: Reverse Engineered pcb design of a mosquito swatter circuit built using KiCad
+<br><br>This is my first attempt at drawing a pcb and also using the KiCad software, so I have done the bare minimum of clearing Electrical Rules Checker and Design Rules Checker. There must be lots of routing and component placement issues but I have rounded up sharp edges and made the traces as short as possible.
 <br><br>
 <div align="center">
   <img width="961" height="378" alt="PCB FRONT" src="https://github.com/user-attachments/assets/6d50a589-29a8-44be-9b5e-d4bfc63326b1" />
@@ -35,5 +36,4 @@ Objective: Reverse Engineered pcb design of a mosquito swatter circuit built usi
 <img width="568" height="157" alt="image" src="https://github.com/user-attachments/assets/4b267803-792f-4a37-b6bf-cc0b93f66375" />
 <br><sub><i>Fig7:PCB Back</i></sub>
 </div>
-<br><br>
-This is my first attempt at drawing a pcb and also using the KiCad software, so I have done the bare minimum of clearing Electrical Rules Checker and Design Rules Checker. There must be lots of routing and component placement issues but I have rounded up sharp edges and made the traces as short as possible.
+
